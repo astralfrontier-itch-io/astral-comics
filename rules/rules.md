@@ -22,50 +22,18 @@ Example traits:
 * Super-Intellect
 * Boundless Compassion
 
-## Pools
+## STUN
 
-A pool is a special type of trait.
+All characters have a special trait called STUN. It has a fixed level of 10.
+
 Rather than rolling it during combat or to accomplish something,
 you roll for effect (called **recharging the pool**) at a predefined point during the game, and keep track of the total.
-You can then spend out of this pool of effect for different things.
 You lose any previous effect in a pool when you recharge it.
-
-Some rules allow you to **regain** effect in a Pool. This adds to the level of effect you rolled.
-
 It's recommended, but not required, to take the standard effect when recharging pools.
-
-### Standard Pools
-
-#### Endurance (END)
-
-* Recharge at the start of every scene
-* Regain 3 END when you provide a **Reaction Shot** (see below)
-* Spend 1 END to use 1 level of a character trait to make a roll
-* Spend 1 END to use 2 levels of a character trait to resist someone else's roll
-* If you are out of END, you cannot make rolls
-
-#### Stun (STUN)
 
 * Recharge at the start of every scene, or if you spend a Page of combat time without appearing
 * Lose 1 STUN per point of damaging effect directed at you
 * If you are out of STUN, you are unconscious or otherwise out of the fight (unless you specified another defeat condition)
-
-### Custom Pools
-
-You can buy super-abilities as pools. Define how often the pool recharges
-(e.g. at the start of a scene, when you power up at your headquarters, etc.)
-and how it can be spent (e.g. to resist damage, or to power abilities).
-
-Example pools:
-
-* Gadgets
-* Speed Force
-* Lantern Energy
-
-Any rule that says "spend END" can be paid for from a Custom Pool or your END in any ratio you want,
-as long as using that Pool makes logical sense in the fiction.
-For example, if you need to spend 5 END, you could spend 3 from END and 2 from Speed Force,
-as long as you were doing something where hyper-speed would be a benefit.
 
 ----
 
@@ -202,7 +170,6 @@ The trait(s) you use must make sense in the moment.
 You can attack enemies at range with an Optic Blast, or solve a scientific riddle with Super-Intellect,
 but it’s hard to justify using a Healing Factor to charm a diplomat into sharing a secret with you.
 
-If you're in combat or a situation where it matters, pay END to activate your ability.
 If the roll would be opposed, ask the GM for the opposed level.
 
 ## Time Intervals
@@ -228,20 +195,24 @@ The defeat condition must be achievable in the fight, and it can be changed mid-
 
 ## Resolving Combat
 
+Every Page, the GM will determine starting **Danger** by rolling 2d6.
+If anyone was taken out in the previous Page, roll 1d6 instead.
+Any time you roll an ability, no level (your level or the opposed level) can exceed the current Danger.
+
 Every Page, everyone declares which Panels they'll be in.
 Declare in order of highest STUN to lowest STUN.
 For ties, declare in any order you want.
 Players can pre-negotiate positioning between themselves and/or with the GM before committing to an order,
 but please don't waste a lot of time doing this.
 
-You can add yourself to up to 3 Panels for free. You can spend 3 END per extra Panel to appear in more.
+You can add yourself to up to 3 Panels.
 
 Any Panels without occupants will be filled with Establishing Shots by the GM, which can set up Scene Complications or otherwise advance the story.
 
 If you aren't in a Panel, you can't act, but you also can't be acted upon.
 
 If you are in a Panel, but don't take any mechanical action (e.g. attacking or defending),
-you can narrate a **Reaction Shot** to the ongoing situation, and regain 3 END.
+you can narrate a **Reaction Shot** to the ongoing situation, and increase the Danger by 1-3 (your choice).
 
 Once everyone is placed, play through panel by panel. Resolve actions in the order of lowest STUN to highest STUN.
 
@@ -283,11 +254,6 @@ Traits:
 * Incredible Leaping 4
 * Keen Senses 4
 
-Pools:
-
-* END 10
-* STUN 10
-
 Complications:
 
 * Honor-Bound 4
@@ -297,36 +263,27 @@ Complications:
 
 Traits:
 
-* Robotics Inventor 10
+* Genius Inventor 10
 * Combat Training 6
+* Villain Support Network 5
+* Army of Robot Hands 5
 * Fast Escapes 4
-
-Pools:
-
-* END 10
-* STUN 10
-* Army of Robot Hands 10 (recharge: spend a scene at the lab)
 
 Complications:
 
 * Lack of Resolve 3
-* Villain Patron 4
+* Paranoid Patron 4
 * One-Trick Pony 3
 
 ## Hannibal Lectric
 
 Traits:
 
+* Overclocked Brain 8
 * Moves Like Lightning 6
 * Diabolical Genius 6
+* Wicked Cultured 6
 * Tricks and Traps 4
-* Wicked Cultured 4
-
-Pools:
-
-* END 10
-* STUN 10
-* Electric Charge 10 (recharge: exposure to power source)
 
 Complications:
 
