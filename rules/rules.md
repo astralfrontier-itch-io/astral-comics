@@ -83,7 +83,7 @@ Examples:
 * Afraid of heights
 
 Complications serve two purposes:
-to give you bonus levels in play when the complication arises,
+to give you a benefit in play when the complication arises,
 and to indicate to the GM what sorts of situations you want your character to face.
 
 When you bring a complication into play as part of a roll, add the levels of that complication to the levels you're rolling.
@@ -244,6 +244,9 @@ If you are in a Panel, but don't take any mechanical action (e.g. attacking or d
 you can narrate a **Reaction Shot** to the ongoing situation, and regain 3 END.
 
 Once everyone is placed, play through panel by panel. Resolve actions in the order of lowest STUN to highest STUN.
+
+When you invoke a complication in combat,
+you either gain bonus levels to roll with, or you can regain END equal to the level of the complication.
 
 ----
 
