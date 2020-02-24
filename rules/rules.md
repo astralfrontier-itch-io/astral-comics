@@ -11,7 +11,7 @@ Characters are defined by their **traits**. Each trait has a numeric **level**.
 Your character traits tell us about your super-powers, skills, attitudes, and experiences.
 If you could summarize your character by saying "he is (blank)" or "she has (blank)" or "they can (blank)", that’s probably a trait.
 
-Trait levels do not change during play, except during Rewriting (see below).
+You can change your traits during Letters to the Editor.
 
 Example traits:
 
@@ -268,6 +268,30 @@ You can spread your effect amount across any or all of these outcomes.
 
 * Wide Shot - apply the standard effect to everyone in the Panel with you, e.g. Area-Effect Attacks
 * Negate - reduce some other power's level by the level of this one, e.g. Armor-Piercing attacks
+
+----
+
+# Letters to the Editor
+
+At the end of every Issue, the GM should ask each player to describe their Letter to the Editor, or LTTE.
+This is something a fan might write if they'd read the comic book that was just described.
+A LTTE should include some or all of the following:
+
+* Something about another player's PC that you want to see more (or less) of, like an ongoing storyline, complication, or scene
+* An area where another player's PC is too weak or too strong
+* Anything else you'd like to see more or less of in play, like favorite plot elements or villains
+
+Your LTTE can talk about as many or as few other PCs as you can think of.
+
+When everyone has talked about their LTTE, each player can make adjustments to their own PC.
+Players gain one BP if any of the following happened:
+
+* You changed your character following guidance from at least two different LTTEs
+* Your character complications came up during the Issue, and were recognized in at least one LTTE
+
+Players can update anything that was called out in a LTTE directed at them
+by reassigning their total Build Points to change their traits, or get traits
+at different levels than before.
 
 ----
 
