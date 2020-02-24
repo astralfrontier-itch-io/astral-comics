@@ -35,6 +35,8 @@
 \begin{document}
 \title{$title$}
 
+Playtest Draft: $git_branch$ $current_date$
+
 $body$
 
 \end{document}
