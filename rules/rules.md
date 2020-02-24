@@ -160,6 +160,20 @@ minus 6 (the robot's armored carapace). She rolls 4d6, doing a total of 13 point
 
 # Playing the Game
 
+## Issue Cover
+
+When characters are ready and the game begins, the GM will briefly describe the scene on the cover of this Issue.
+This could be the team struggling against an enemy, being challenged by a natural disaster,
+or anything else the GM thinks would be interesting.
+This is a convenient way for the GM to introduce a new villain or advertise a threat.
+
+However, there is no guarantee that this will come to pass!
+Comic covers often lie, and yours can too.
+Nobody should feel compelled to make the cover a reality in the game.
+The point is to get things rolling with the idea of _something_ happening, rather than railroad the plot.
+
+## Actions and Outcomes
+
 When you declare what you’re doing, and it has a chance of not going the way you want,
 announce which trait or traits you’re applying to the problem, and add up their levels.
 
