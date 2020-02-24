@@ -25,13 +25,12 @@ Example traits:
 ## STUN
 
 All characters have a special trait called STUN. It has a fixed level of 10.
-
 Rather than rolling it during combat or to accomplish something,
 you roll for effect (called **recharging the pool**) at a predefined point during the game, and keep track of the total.
 You lose any previous effect in a pool when you recharge it.
-It's recommended, but not required, to take the standard effect when recharging pools.
 
 * Recharge at the start of every scene, or if you spend a Page of combat time without appearing
+* You can take the standard effect (30 STUN) if you want
 * Lose 1 STUN per point of damaging effect directed at you
 * If you are out of STUN, you are unconscious or otherwise out of the fight (unless you specified another defeat condition)
 
@@ -80,8 +79,6 @@ Spend 1 BP to add one level to an existing trait or buy 1 level in a new trait. 
 You should buy a range of traits that cover most of the situations you want your character to handle. Buy some very generic traits (e.g. "Dexterity", "Intelligence").
 
 Complications never cost BP.
-
-----
 
 ## Example Character
 
@@ -181,8 +178,6 @@ Time is divided like this:
 * Spreads (a special Panel going into a lot of detail or showing something especially dramatic)
 * Issues (a single game session, expected to take 2-4 hours of play)
 * Collections (several issues which create a story arc)
-
-----
 
 # Combat
 
