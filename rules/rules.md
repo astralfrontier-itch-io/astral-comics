@@ -34,8 +34,6 @@ You lose any previous effect in a pool when you recharge it.
 * Lose 1 STUN per point of damaging effect directed at you
 * If you are out of STUN, you are unconscious or otherwise out of the fight (unless you specified another defeat condition)
 
-----
-
 ## Complications
 
 A complication is anything that can disrupt your life as a hero, or make a situation messier or more interesting.
@@ -68,7 +66,7 @@ you gain the benefit.
 For example, a villain with "Arrogant 5" might be haughty and dominating on the battlefield.
 If you can trick them into over-extending themselves, you can invoke Arrogant to your benefit.
 
-----
+
 
 ## Build Points
 
@@ -79,6 +77,8 @@ Spend 1 BP to add one level to an existing trait or buy 1 level in a new trait. 
 You should buy a range of traits that cover most of the situations you want your character to handle. Buy some very generic traits (e.g. "Dexterity", "Intelligence").
 
 Complications never cost BP.
+
+----
 
 ## Example Character
 
@@ -97,9 +97,6 @@ She has the following complications:
 
 * During a fight, she adds these levels to a defense, but it’s because a flurry of shuriken suddenly came her way, signaling some ninja hunters are now on the scene too
 * A forensic investigation roll gets the bonus if signs of the clan’s involvement are present - what could they want?
-* A persuasion or other social roll succeeds, but the clan is monitoring the conversation and will now come for her
-
-----
 
 **Never Gives Up 4** - she’s focused and dedicated to her mission, but sometimes won’t back down even when she ought to
 
@@ -113,17 +110,12 @@ She has the following complications:
 
 **Orphan Sidekick 5** - she has a kid helping her in her vigilante work
 
-* She and her sidekick team up for an attack, but the sidekick becomes a target for counterattacks
 * Sidekick helps with the investigation by running errands or distracting police, but might be questioned, abducted, or spied on
 * Sidekick has their own life which will drag Nightsong into a bad situation
-
-----
 
 # Effect
 
 When a rule says to make a roll, you'll need to know the **level** you are rolling, and (optionally) an **opposing level**.
-
-If you have no applicable levels at all, but the challenge is something an ordinary person ought to be capable of attempting, you get a default level of 1.
 
 If you are **rolling for success**, roll 3d6. If you get equal or less than (10 + your level - the opposing level), the effect is Success. Otherwise, it's Failure.
 
@@ -134,8 +126,6 @@ Instead of rolling for effect, you can take the standard effect:
 3 * (your level - the opposing level), with a minimum value of 0.
 
 The GM is encouraged to use standard effect when a PC and NPC come into opposition, to reduce rolling.
-
-----
 
 ## When do I roll for success vs. effect?
 
@@ -244,10 +234,7 @@ You can spread your effect amount across any or all of these outcomes.
 * Penalty - create a scene complication that resists certain actions, like "Entangle 4 vs. all movement". Lasts until Canceled or negated by the fiction. Use Effect to Levels.
 * Cancel - reduce a scene complication's levels by the effect amount. Use Effect to Levels.
 
-### TODO
-
-* Wide Shot - apply the standard effect to everyone in the Panel with you, e.g. Area-Effect Attacks
-* Negate - reduce some other power's level by the level of this one, e.g. Armor-Piercing attacks
+If what you're doing doesn't fit one of these categories, consider an all-or-nothing success roll instead of rolling for effect.
 
 ----
 
@@ -272,53 +259,3 @@ Players gain one BP if any of the following happened:
 Players can update anything that was called out in a LTTE directed at them
 by reassigning their total Build Points to change their traits, or get traits
 at different levels than before.
-
-----
-
-# Villains
-
-## Jacques Rabbit
-
-Traits:
-
-* Human-Rabbit Hybrid 8
-* European Mercenary 8
-* Weapons and Gadgets 6
-* Incredible Leaping 4
-* Keen Senses 4
-
-Complications:
-
-* Honor-Bound 4
-* Wanted Criminal 6
-
-## Handmaid
-
-Traits:
-
-* Genius Inventor 10
-* Combat Training 6
-* Villain Support Network 5
-* Army of Robot Hands 5
-* Fast Escapes 4
-
-Complications:
-
-* Lack of Resolve 3
-* Paranoid Patron 4
-* One-Trick Pony 3
-
-## Hannibal Lectric
-
-Traits:
-
-* Overclocked Brain 8
-* Moves Like Lightning 6
-* Diabolical Genius 6
-* Wicked Cultured 6
-* Tricks and Traps 4
-
-Complications:
-
-* Arrogant 5
-* Vulnerable to Overload 5

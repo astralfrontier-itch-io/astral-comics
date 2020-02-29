@@ -1,14 +1,15 @@
 % !TEX engine = xelatex
 
 % Documentation: http://texdoc.net/texmf-dist/doc/latex/memoir/memman.pdf
-\documentclass[oneside,twocolumn]{memoir}
+\documentclass[statementpaper, twoside]{memoir}
+
+\setlrmarginsandblock{2.5cm}{1.0cm}{*}
+\setulmarginsandblock{1.2cm}{1.5cm}{*}
+\checkandfixthelayout 
 
 %%% Required by Pandoc
 \usepackage{hyperref}
 \providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-
-%%% One page,
-\usepackage[letterpaper, portrait]{geometry}
 
 %%% page formatting
 % basic page numbers

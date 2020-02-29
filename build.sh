@@ -43,3 +43,5 @@ gs -sDEVICE=pdfwrite                \
     -r150                           \
     -sOutputFile=champions-lite.pdf \
     dist/*.pdf
+
+xelatex zine.latex
