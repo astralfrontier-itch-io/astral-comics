@@ -26,13 +26,13 @@ Example traits:
 
 All characters have a special trait called STUN. It has a fixed level of 10.
 Rather than rolling it during combat or to accomplish something,
-you roll for effect (called **recharging the pool**) at a predefined point during the game, and keep track of the total.
+you roll for effect (called **recharging the pool**) and keep track of the total.
 You lose any previous effect in a pool when you recharge it.
 
-* Recharge at the start of every scene, or if you spend a Page of combat time without appearing
-* You can take the standard effect (30 STUN) if you want
-* Lose 1 STUN per point of damaging effect directed at you
-* If you are out of STUN, you are unconscious or otherwise out of the fight (unless you specified another defeat condition)
+Recharge STUN at the start of every scene, or if you spend a Page of combat time without appearing.
+You can take the standard effect (30 STUN) if you want.
+You lose 1 STUN per point of damaging effect directed at you.
+If you are out of STUN, you are unconscious or otherwise out of the fight (unless you specified another defeat condition).
 
 ## Complications
 
@@ -65,8 +65,6 @@ you gain the benefit.
 
 For example, a villain with "Arrogant 5" might be haughty and dominating on the battlefield.
 If you can trick them into over-extending themselves, you can invoke Arrogant to your benefit.
-
-
 
 ## Build Points
 
@@ -112,6 +110,8 @@ She has the following complications:
 
 * Sidekick helps with the investigation by running errands or distracting police, but might be questioned, abducted, or spied on
 * Sidekick has their own life which will drag Nightsong into a bad situation
+
+----
 
 # Effect
 
@@ -181,6 +181,8 @@ Time is divided like this:
 * Issues (a single game session, expected to take 2-4 hours of play)
 * Collections (several issues which create a story arc)
 
+----
+
 # Combat
 
 ## Defeat Conditions
@@ -217,12 +219,19 @@ Once everyone is placed, play through panel by panel. Resolve actions in the ord
 
 ## Effect to Levels
 
-When you're called on to turn an effect amount rolled on the dice into a number of levels, it works like this:
+When you're called on to turn an effect amount rolled on the dice into a number of levels, it works like this, always rounding down:
 
-1 point of effect = 1 level for Rare effects ("Zymoxian superpowers")
-2 points of effect = 1 level for Uncommon effects ("tunneling underground")
-3 points of effect = 1 level for Common effects ("fire-related powers")
+1 point of effect = 1 level for Rare effects ("Zymoxian telepathy")  
+2 points of effect = 1 level for Uncommon effects ("tunneling underground")  
+3 points of effect = 1 level for Common effects ("fire-related powers")  
 4 points of effect = 1 level for Very Common effects ("any movement")
+
+For example, a character wants to encase an enemy in ice, preventing them from doing anything.
+They roll for effect and get 18 points. "Doing anything" is Very Common, so (18/4) gives a -4 to act.
+
+Another character wants to create a force field, blocking off a corridor.
+The GM rules this is a Common effect. They roll 15 points of effect.
+Now, anyone trying to penetrate the force field must roll against 5 opposed levels (15/3).
 
 ## Spending Effect
 
@@ -233,6 +242,8 @@ You can spread your effect amount across any or all of these outcomes.
 * Cancel - reduce a scene complication's levels by the effect amount. Use Effect to Levels.
 
 If what you're doing doesn't fit one of these categories, consider an all-or-nothing success roll instead of rolling for effect.
+
+To penalize any use of a power against yourself, take a trait that represents your defense, e.g. "Mental Shield" or "Iron Skin".
 
 ----
 
@@ -249,11 +260,12 @@ A LTTE should include some or all of the following:
 Your LTTE can talk about as many or as few other PCs as you can think of.
 
 When everyone has talked about their LTTE, each player can make adjustments to their own PC.
-Players gain one BP if any of the following happened:
 
-* You changed your character following guidance from at least two different LTTEs
+Players can reassign their total Build Points to change their traits,
+or get traits at different levels than before.
+During this process, players gain one BP if any of the following happened:
+
+* You are changing your character following guidance from at least two different LTTEs
 * Your character complications came up during the Issue, and were recognized in at least one LTTE
 
-Players can update anything that was called out in a LTTE directed at them
-by reassigning their total Build Points to change their traits, or get traits
-at different levels than before.
+![](images/images.png)
