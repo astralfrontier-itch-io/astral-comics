@@ -1,5 +1,6 @@
 \documentclass{scrartcl}
 \usepackage{pdfpages}
+\usepackage[margin=0in]{geometry}
 \begin{document}
 \includepdf[pages=-,signature=8,landscape]{champions-lite.pdf}
 \end{document}

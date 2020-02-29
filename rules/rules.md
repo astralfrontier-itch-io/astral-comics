@@ -115,6 +115,9 @@ She has the following complications:
 
 # Effect
 
+In general, players ought to roll for their PCs, and the GM should take the standard effect for NPCs.
+If a villain attacks a PC, the player's roll is to defend or mitigate the effect.
+
 When a rule says to make a roll, you'll need to know the **level** you are rolling, and (optionally) an **opposing level**.
 
 If you are **rolling for success**, roll 3d6. If you get equal or less than (10 + your level - the opposing level), the effect is Success. Otherwise, it's Failure.
@@ -130,11 +133,6 @@ The GM is encouraged to use standard effect when a PC and NPC come into oppositi
 ## When do I roll for success vs. effect?
 
 Roll for success when an effect would be all-or-nothing, e.g. invasive mind control, a mystical curse, or an ultra-deadly ray gun. Roll for effect when you are comparing strengths, or when it's likely a hit will happen but it's not certain how bad it will be.
-
-## Who rolls?
-
-In general, players ought to roll for their PCs, and the GM should take the standard effect for NPCs.
-If a villain attacks a PC, the player's roll is to defend or mitigate the effect.
 
 ## Examples
 

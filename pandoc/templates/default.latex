@@ -3,8 +3,8 @@
 % Documentation: http://texdoc.net/texmf-dist/doc/latex/memoir/memman.pdf
 \documentclass[statementpaper, twoside]{memoir}
 
-\setlrmarginsandblock{2.5cm}{1.0cm}{*}
-\setulmarginsandblock{1.2cm}{1.5cm}{*}
+\setlrmarginsandblock{2.0cm}{2.0cm}{*}
+\setulmarginsandblock{1.5cm}{1.5cm}{*}
 \checkandfixthelayout 
 
 %%% Required by Pandoc
@@ -12,8 +12,8 @@
 \providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
 %%% page formatting
-% basic page numbers
-\pagestyle{plain}
+% basic page numbers = plain, no page numbers = empty
+\pagestyle{empty}
 
 %%% Memoir section styling
 % remove numbering from section titles, as we'll use our sections as dividers between rules chunks

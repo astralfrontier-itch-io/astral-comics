@@ -1,2 +1,4 @@
-champions-lite.pdf
 dist/
+*.aux
+*.log
+*.pdf
