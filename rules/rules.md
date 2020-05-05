@@ -1,5 +1,5 @@
 ---
-title: Champions Lite
+title: Astral Comics!
 ---
 
 # Character Creation
