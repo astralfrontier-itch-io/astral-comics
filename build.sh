@@ -41,5 +41,5 @@ gs -sDEVICE=pdfwrite                \
     -dDetectDuplicateImages         \
     -dCompressFonts=true            \
     -r150                           \
-    -sOutputFile=champions-lite.pdf \
+    -sOutputFile=astral-comics.pdf \
     dist/*.pdf
