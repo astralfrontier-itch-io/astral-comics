@@ -1,7 +1,7 @@
 % !TEX engine = xelatex
 
 % Documentation: http://texdoc.net/texmf-dist/doc/latex/memoir/memman.pdf
-\documentclass[oneside]{memoir}
+\documentclass[oneside,onecolumn]{memoir}
 
 ${ common() }
 
