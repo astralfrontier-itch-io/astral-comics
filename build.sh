@@ -16,15 +16,13 @@ function runPandoc() {
     local OUTPUT_BASE=${INPUT##*/}
     local OUTPUT=dist/$2${OUTPUT_BASE%.md}.pdf
     local TEMPLATE=${3:-default}
-    $PANDOC "$INPUT"                                        \
-        -o "$OUTPUT"                                        \
-        -M current_date="$(date)"                           \
-	    -M git_branch="$(git symbolic-ref --short HEAD)"    \
-        --data-dir pandoc                                   \
-        --template "$TEMPLATE"                              \
-        --lua-filter=filters/standard.lua                   \
-        --pdf-engine=xelatex                                \
-        -f markdown                                         \
+    $PANDOC "$INPUT"                        \
+        -o "$OUTPUT"                        \
+        --data-dir pandoc                   \
+        --template "$TEMPLATE"              \
+        --lua-filter=filters/standard.lua   \
+        --pdf-engine=xelatex                \
+        -f markdown                         \
         # 
 }
 
